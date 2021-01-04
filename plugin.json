@@ -1,12 +1,12 @@
 {
-    "ID":"2f4e384e-76ce-45c3-aea2-b16f5e5c328f",
-    "ActionKeyword":"bash",
-    "Name":"WSL Runner",
-    "Description":"Windows Subsystem for Linux runner",
+    "ID":"174930aa525811ebae930242ac130002",
+    "ActionKeyword":">>",
+    "Name":"Custom Shell Runner",
+    "Description":"Custom Shell Runner",
     "Author":"zsabra",
-    "Version":"1.0",
+    "Version":"1.0.0",
     "Language":"python",
-    "Website":"https://github.com/Wox-launche/Wox",
-    "IcoPath":"Images\\app.png",
+    "Website":"https://github.com/zsabra/WoxCustomShellRunner",
+    "IcoPath":"Images\\terminal.png",
     "ExecuteFileName":"main.py"
 }
